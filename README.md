@@ -7,7 +7,7 @@ Finished and working project inspired by  [shopping-basket-laravel-livewire](htt
 - [Livewire 2.x](https://laravel-livewire.com/)
 ## Installation
 
-For this exercise we are going to use sqlite database, but feel free to use your preferred database system.
+For this project we are going to use sqlite database, but feel free to use your preferred database system.
 
 ```bash
 git clone https://github.com/Marcin13/Shopping-Basket-with-Laravel-Livewire.git
