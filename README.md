@@ -1,7 +1,7 @@
 # Shopping Basket with Laravel Livewire
 Finished and working project inspired by  [shopping-basket-laravel-livewire](https://github.com/ssd-tutorials/shopping-basket-laravel-livewire)
 
-##This project use
+## This project use
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Laravel 7.30.4](https://laravel.com/)
 - [Livewire 2.x](https://laravel-livewire.com/)
