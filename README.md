@@ -12,7 +12,7 @@ For this project we are going to use sqlite database, but feel free to use your 
 ```bash
 git clone https://github.com/Marcin13/Shopping-Basket-with-Laravel-Livewire.git
 
-cd shoppingBasket
+cd shopping-basket-laravel-livewire
 
 composer install
 
