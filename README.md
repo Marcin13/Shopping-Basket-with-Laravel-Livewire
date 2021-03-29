@@ -14,6 +14,7 @@ git clone https://github.com/Marcin13/Shopping-Basket-with-Laravel-Livewire.git
 
 cd shopping-basket-laravel-livewire
 
+composer update
 composer install
 
 cp .env.example .env
